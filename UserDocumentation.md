@@ -155,6 +155,6 @@ The Settings screen has a **Delete This User** button to remove the current user
 
 ## [Thank You and Reporting Issues](id:thankYou)
 
-Thank you for using TODO20. We hope that this application helps you to be more productive in managing your tasks. Should you experience any issues, please contact us on our Github page so that we can resolve the issue as quickly as possible. [The TODO20 GitHub Issues Page](https://github.com/gt-ud-softeng/RepTeam2.20/issues?state=open)
+Thank you for using TODO20. We hope that this application helps you to be more productive in managing your tasks. Should you experience any issues, please contact us on our Github page so that we can resolve the issue as quickly as possible. 
 
 -- The TODO20 Team
